@@ -1,0 +1,23 @@
+.resimSlider{
+    height: 600px;
+}
+
+body{
+    padding-top: 50px;
+    font-family: 'Raleway', sans-serif;
+}
+.hakkimizda .galeri {
+    background-color: #f2f2f2;
+}
+
+.ekibimiz , .iletisim{
+    background-color: white;
+}
+.ekipCard img:hover{
+    opacity: 0.8;
+    transition: .3s;
+}
+.figure:hover{
+    opacity: 0.8;
+    transition: .3s;
+}
